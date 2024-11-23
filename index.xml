@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinks Too Much</title>
+    <link>thinkstoomuch.net/</link>
+    <description>Recent content on Thinks Too Much</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="thinkstoomuch.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>thinkstoomuch.net/pages/helloworld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>thinkstoomuch.net/pages/helloworld/</guid>
+      <description>Welcome to my Site! This is my newblogging site&amp;hellip; I guess.
+I&amp;rsquo;ve been wanting to find a place to collect and share my ideas for years now. Hopefully this becomes a regular habit that I can maintain for years, but we need to start small by starting the site and introducing what I do.
+Things to see I am an avid enjoyer of what I believe to be a stereotypical collection of hobbies: Hiking, History, Philosophy, Politics, Art, and Computers!</description>
+    </item>
+    
+    <item>
+      <title>Test Posts for Hugo</title>
+      <link>thinkstoomuch.net/pages/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>thinkstoomuch.net/pages/test/</guid>
+      <description>Test Files The test file for this site By Nags Test words lmao</description>
+    </item>
+    
+  </channel>
+</rss>
