@@ -2,15 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/50rdtrain/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/post/helloworld/</loc>
   </url><url>
     <loc>/post/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/post/buyingagun/</loc>
   </url><url>
-    <loc>/post/test/</loc>
+    <loc>/tags/</loc>
   </url><url>
     <loc>/</loc>
   </url>
