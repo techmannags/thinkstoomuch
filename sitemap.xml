@@ -2,19 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/helloworld/</loc>
+  </url><url>
     <loc>/post/50rdtrain/</loc>
+  </url><url>
+    <loc>/post/buyingagun/</loc>
   </url><url>
     <loc>/post/atheistoccult/</loc>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/post/helloworld/</loc>
-  </url><url>
-    <loc>/post/</loc>
-  </url><url>
     <loc>/post/selfishsnips/</loc>
   </url><url>
-    <loc>/post/buyingagun/</loc>
+    <loc>/post/datingapps/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/post/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url><url>
